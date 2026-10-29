@@ -1,0 +1,15 @@
+{{ define "main" }}
+<article class="doc">
+  <header class="doc-head">
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.subtitle }}<p class="subtitle">{{ . }}</p>{{ end }}
+  </header>
+  <div class="prose">{{ .Content }}</div>
+  {{ with .Pages }}
+  <section class="toc">
+    <h2>{{ i18n "contents" }}</h2>
+    <ul>{{ range .ByWeight }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ with .Description }}<span class="desc">{{ . }}</span>{{ end }}</li>{{ end }}</ul>
+  </section>
+  {{ end }}
+</article>
+{{ end }}

@@ -1,0 +1,95 @@
+baseURL = "https://agiosonoufrios.github.io/"
+defaultContentLanguage = "el"
+defaultContentLanguageInSubdir = false
+enableRobotsTXT = true
+disableKinds = ["taxonomy", "term"]
+timeZone = "Europe/Athens"
+
+[markup.goldmark.renderer]
+  unsafe = true
+[markup.goldmark.extensions]
+  footnote = true
+  typographer = false
+
+[params]
+  author = "Jason Digalakis"
+  since = 2004
+
+[languages]
+  [languages.el]
+    languageName = "EL"
+    languageCode = "el"
+    title = "Άγιος Ονούφριος"
+    contentDir = "content/el"
+    weight = 1
+    [languages.el.params]
+      description = "Αφιέρωμα στον Άγιο Ονούφριο τον Αιγύπτιο: βίος, υμνογραφία, λειτουργικά και πατερικά κείμενα, βιβλιογραφία."
+      authorName = "Ιάσων Διγαλάκης"
+    [[languages.el.menus.main]]
+      name = "Αφιέρωμα"
+      pageRef = "/afieroma"
+      weight = 10
+    [[languages.el.menus.main]]
+      name = "Πάντοτε Επίκαιρα"
+      pageRef = "/pantote-epikaira"
+      weight = 20
+    [[languages.el.menus.main]]
+      name = "Συναξαριστής"
+      pageRef = "/synaxaristis"
+      weight = 30
+    [[languages.el.menus.main]]
+      name = "Πηγές – Βιβλιογραφία"
+      pageRef = "/vivliografia"
+      weight = 40
+
+  [languages.en]
+    languageName = "EN"
+    languageCode = "en"
+    title = "Saint Onuphrius"
+    contentDir = "content/en"
+    weight = 2
+    [languages.en.params]
+      description = "A tribute to Saint Onuphrius the Egyptian: life, hymnography, liturgical and patristic texts, bibliography."
+      authorName = "Jason Digalakis"
+    [[languages.en.menus.main]]
+      name = "Tribute"
+      pageRef = "/tribute"
+      weight = 10
+    [[languages.en.menus.main]]
+      name = "Ever Timely"
+      pageRef = "/ever-timely"
+      weight = 20
+    [[languages.en.menus.main]]
+      name = "Synaxarion"
+      pageRef = "/synaxarion"
+      weight = 30
+    [[languages.en.menus.main]]
+      name = "Sources & Bibliography"
+      pageRef = "/bibliography"
+      weight = 40
+
+  [languages.pt]
+    languageName = "PT"
+    languageCode = "pt-PT"
+    title = "Santo Onofre"
+    contentDir = "content/pt"
+    weight = 3
+    [languages.pt.params]
+      description = "Homenagem a Santo Onofre, o Egípcio: vida, hinografia, textos litúrgicos e patrísticos, bibliografia."
+      authorName = "Jason Digalakis"
+    [[languages.pt.menus.main]]
+      name = "Homenagem"
+      pageRef = "/homenagem"
+      weight = 10
+    [[languages.pt.menus.main]]
+      name = "Sempre Atual"
+      pageRef = "/sempre-atual"
+      weight = 20
+    [[languages.pt.menus.main]]
+      name = "Sinaxário"
+      pageRef = "/sinaxario"
+      weight = 30
+    [[languages.pt.menus.main]]
+      name = "Fontes e Bibliografia"
+      pageRef = "/bibliografia"
+      weight = 40

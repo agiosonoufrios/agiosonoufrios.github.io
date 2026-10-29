@@ -1,0 +1,22 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{{ $title := cond .IsHome .Site.Title (printf "%s · %s" .Title .Site.Title) }}
+<title>{{ $title }}</title>
+{{ $desc := .Description | default .Site.Params.description }}
+<meta name="description" content="{{ $desc }}">
+<meta name="author" content="{{ .Site.Params.authorName }}">
+<link rel="canonical" href="{{ .Permalink }}">
+{{ range .AllTranslations }}<link rel="alternate" hreflang="{{ .Language.LanguageCode }}" href="{{ .Permalink }}">
+{{ end }}{{ with .Translations }}{{ end }}{{ range where .AllTranslations "Language.Lang" "el" }}<link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">{{ end }}
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:title" content="{{ $title }}">
+<meta property="og:description" content="{{ $desc }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:image" content="{{ "images/banner.jpg" | absURL }}">
+<meta property="og:locale" content="{{ replace .Site.Language.LanguageCode "-" "_" }}">
+<meta name="theme-color" content="#550000">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+{{ $css := resources.Get "css/main.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">

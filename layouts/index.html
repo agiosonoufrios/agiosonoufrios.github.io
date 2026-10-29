@@ -1,0 +1,19 @@
+{{ define "main" }}
+<article class="doc home">
+  <header class="doc-head">
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.subtitle }}<p class="subtitle">{{ . }}</p>{{ end }}
+  </header>
+  <div class="prose">{{ .Content }}</div>
+  <section class="cards">
+    {{ range .Site.Menus.main }}
+      {{ with .Page }}
+      <a class="card" href="{{ .RelPermalink }}">
+        <h2>{{ .Title }}</h2>
+        {{ with .Description }}<p>{{ . }}</p>{{ end }}
+      </a>
+      {{ end }}
+    {{ end }}
+  </section>
+</article>
+{{ end }}

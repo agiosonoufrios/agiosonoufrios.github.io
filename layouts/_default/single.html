@@ -1,0 +1,10 @@
+{{ define "main" }}
+<article class="doc">
+  <header class="doc-head">
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.subtitle }}<p class="subtitle">{{ . }}</p>{{ end }}
+  </header>
+  <div class="prose">{{ .Content }}</div>
+  {{ if not .Lastmod.IsZero }}<p class="meta">{{ i18n "lastUpdated" }}: {{ .Lastmod | time.Format ":date_long" }}</p>{{ end }}
+</article>
+{{ end }}

@@ -1,0 +1,32 @@
+<header class="site-head">
+  <div class="banner-band">
+    <a href="{{ .Site.Home.RelPermalink }}" class="banner-link">
+      <img src="{{ "images/banner.jpg" | relURL }}" width="1440" height="372" alt="{{ .Site.Title }}" class="banner">
+    </a>
+  </div>
+  <div class="bar wrap">
+    <nav class="nav" aria-label="{{ i18n "menu" }}">
+      <ul>
+        <li><a href="{{ .Site.Home.RelPermalink }}"{{ if .IsHome }} aria-current="page"{{ end }}>{{ i18n "home" }}</a></li>
+        {{ $cur := . }}
+        {{ range .Site.Menus.main }}
+        <li><a href="{{ .URL }}"{{ if or ($cur.IsMenuCurrent "main" .) ($cur.HasMenuCurrent "main" .) }} aria-current="page"{{ end }}>{{ .Name }}</a></li>
+        {{ end }}
+      </ul>
+    </nav>
+    <nav class="lang" aria-label="{{ i18n "language" }}">
+      {{ $page := . }}
+      {{ range $i, $l := .Site.Languages }}
+        {{ if $i }}<span class="sep" aria-hidden="true">·</span>{{ end }}
+        {{ if eq $l.Lang $page.Language.Lang }}
+          <span class="current" lang="{{ $l.LanguageCode }}">{{ $l.LanguageName }}</span>
+        {{ else }}
+          {{ $target := "" }}
+          {{ range $page.Translations }}{{ if eq .Language.Lang $l.Lang }}{{ $target = .RelPermalink }}{{ end }}{{ end }}
+          {{ if not $target }}{{ $target = (printf "%s/" (strings.TrimSuffix "/" ($l.Lang | relLangURL))) }}{{ if eq $l.Lang "el" }}{{ $target = "/" | relURL }}{{ end }}{{ end }}
+          <a href="{{ $target }}" lang="{{ $l.LanguageCode }}" hreflang="{{ $l.LanguageCode }}">{{ $l.LanguageName }}</a>
+        {{ end }}
+      {{ end }}
+    </nav>
+  </div>
+</header>
