@@ -122,3 +122,11 @@ main { padding-top: 2rem; padding-bottom: 3rem; }
   .figure-right { float: none; width: 100%; margin: 0 0 1.2rem; }
   .page-toc ul { columns: 1; }
 }
+
+/* ===== Φάση 3: πρωτότυπο κείμενο σε μεταφράσεις ===== */
+details.orig { margin: -.6rem 0 1.4rem; font-size: .92rem; }
+details.orig summary { cursor: pointer; color: var(--gold-dark); font-style: italic; list-style: none; }
+details.orig summary::-webkit-details-marker { display: none; }
+details.orig summary::before { content: "▸ "; }
+details.orig[open] summary::before { content: "▾ "; }
+details.orig p { margin: .5rem 0 0; padding: .7rem 1rem; background: var(--cream); border-left: 2px solid var(--gold-line); line-height: 1.8; }
