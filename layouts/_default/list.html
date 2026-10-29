@@ -4,7 +4,14 @@
     <h1>{{ .Title }}</h1>
     {{ with .Params.subtitle }}<p class="subtitle">{{ . }}</p>{{ end }}
   </header>
+  {{ if .Params.toc }}
+  <details class="page-toc" open>
+    <summary>{{ i18n "toc" }}</summary>
+    {{ .TableOfContents }}
+  </details>
+  {{ end }}
   <div class="prose">{{ .Content }}</div>
+  {{ with .Params.bibliography }}{{ with resources.Get (printf "bib/%s.html" .) }}<div class="prose">{{ .Content | safeHTML }}</div>{{ end }}{{ end }}
   {{ with .Pages }}
   <section class="toc">
     <h2>{{ i18n "contents" }}</h2>
