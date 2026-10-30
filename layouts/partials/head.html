@@ -12,7 +12,7 @@
 <meta property="og:title" content="{{ $title }}">
 <meta property="og:description" content="{{ $desc }}">
 <meta property="og:url" content="{{ .Permalink }}">
-<meta property="og:image" content="{{ "images/banner.jpg" | absURL }}">
+<meta property="og:image" content="{{ printf "images/banner-%s.jpg" .Site.Language.Lang | absURL }}">
 <meta property="og:locale" content="{{ replace .Site.Language.LanguageCode "-" "_" }}">
 <meta name="theme-color" content="#550000">
 <link rel="preconnect" href="https://fonts.googleapis.com">

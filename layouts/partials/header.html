@@ -1,7 +1,7 @@
 <header class="site-head">
   <div class="banner-band">
     <a href="{{ .Site.Home.RelPermalink }}" class="banner-link">
-      <img src="{{ "images/banner.jpg" | relURL }}" width="1440" height="372" alt="{{ .Site.Title }}" class="banner">
+      <img src="{{ printf "images/banner-%s.jpg" .Site.Language.Lang | relURL }}" width="1440" height="372" alt="{{ .Site.Title }}" class="banner">
     </a>
   </div>
   <div class="bar wrap">
