@@ -131,3 +131,15 @@ details.orig summary::before { content: "▸ "; }
 details.orig[open] summary::before { content: "▾ "; }
 details.orig p { margin: .5rem 0 0; padding: .7rem 1rem; background: var(--cream); border-left: 2px solid var(--gold-line); line-height: 1.8; }
 .prose .note { display: flow-root; }
+
+/* ===== Ιδιόμελα / χειροκίνητες σημειώσεις ===== */
+.hymn-list { list-style: none; counter-reset: hymn; padding: 0; margin: 0 0 2rem; }
+.hymn-list > li { counter-increment: hymn; position: relative; padding-left: 2.4rem; margin-bottom: 1rem; }
+.hymn-list > li::before { content: counter(hymn) "."; position: absolute; left: 0; top: .9rem; color: var(--gold-dark); font-weight: 700; }
+.hymn-list .hymn { margin: 0; }
+sup.ref a { text-decoration: none; font-weight: 700; }
+.notes-manual { font-size: .9rem; line-height: 1.6; margin-top: 2.5em; border-top: 1px solid var(--gold-line); padding: 1em 0 0 1.6rem; }
+.notes-manual::before { display: block; margin-left: -1.6rem; font-weight: 700; color: var(--bordo); font-size: 1.15rem; margin-bottom: .5rem; }
+.notes-manual:lang(el)::before { content: "Σημειώσεις"; }
+.notes-manual:lang(en)::before { content: "Notes"; }
+.notes-manual:lang(pt)::before { content: "Notas"; }

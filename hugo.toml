@@ -24,7 +24,7 @@ timeZone = "Europe/Athens"
     weight = 1
     [languages.el.params]
       description = "Αφιέρωμα στον Άγιο Ονούφριο τον Αιγύπτιο: βίος, υμνογραφία, λειτουργικά και πατερικά κείμενα, βιβλιογραφία."
-      authorName = "Ιάσων Διγαλάκης"
+      authorName = "Ιάσονας Διγαλάκης"
     [[languages.el.menus.main]]
       name = "Αφιέρωμα"
       pageRef = "/afieroma"
