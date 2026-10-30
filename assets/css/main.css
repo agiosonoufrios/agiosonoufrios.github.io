@@ -130,3 +130,4 @@ details.orig summary::-webkit-details-marker { display: none; }
 details.orig summary::before { content: "▸ "; }
 details.orig[open] summary::before { content: "▾ "; }
 details.orig p { margin: .5rem 0 0; padding: .7rem 1rem; background: var(--cream); border-left: 2px solid var(--gold-line); line-height: 1.8; }
+.prose .note { display: flow-root; }
