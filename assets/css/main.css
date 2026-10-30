@@ -155,3 +155,11 @@ details.service { margin: 1rem 0 2rem; border: 1px solid var(--gold-line); paddi
 details.service > summary { cursor: pointer; font-weight: 700; color: var(--bordo); }
 details.service[open] > summary { margin-bottom: 1rem; }
 .svc-h { color: var(--bordo); font-size: 1.15rem; margin: 2rem 0 .6rem; border-bottom: 1px solid var(--gold-line); padding-bottom: .3em; }
+.acro { color: #B22222; font-weight: 700; font-size: 1.25em; line-height: 1; }
+.prose p.lit { margin: 0 0 .7em; padding-left: 1rem; border-left: 2px solid #EFE3CC; }
+.prose p.lit .who { font-variant: small-caps; font-weight: 700; color: var(--bordo); margin-right: .35em; letter-spacing: .03em; }
+.skevi { display: grid; grid-template-columns: repeat(auto-fill, minmax(13rem, 1fr)); gap: 1.2rem; margin: 1.5rem 0; }
+.skevi figure { margin: 0; background: #FFFDF8; border: 1px solid var(--gold-line); padding: .6rem; }
+.skevi img { width: 100%; height: 12rem; object-fit: contain; background: #fff; display: block; }
+.skevi figcaption { font-size: .88rem; line-height: 1.5; margin-top: .5rem; color: var(--text); font-style: normal; }
+.skevi .num { color: var(--gold-dark); font-weight: 700; }
