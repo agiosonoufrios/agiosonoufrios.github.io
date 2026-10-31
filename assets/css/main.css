@@ -163,3 +163,6 @@ details.service[open] > summary { margin-bottom: 1rem; }
 .skevi img { width: 100%; height: 12rem; object-fit: contain; background: #fff; display: block; }
 .skevi figcaption { font-size: .88rem; line-height: 1.5; margin-top: .5rem; color: var(--text); font-style: normal; }
 .skevi .num { color: var(--gold-dark); font-weight: 700; }
+.source { font-size: .9rem; color: var(--muted, #6b5a4a); font-style: italic; margin: .4rem 0 1.2rem; }
+.verse-author { text-align: center; font-style: italic; font-size: .92rem; margin-top: -.4rem; }
+span.source { display: block; }
