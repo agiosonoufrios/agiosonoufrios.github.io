@@ -12,11 +12,11 @@ Todo o conteúdo deste sítio está também disponível em livro, num formato ad
 
 <p class="note"><strong>O livro está disponível apenas em grego.</strong> As traduções inglesa e portuguesa encontram-se apenas neste sítio.</p>
 
-<p class="bib-dl"><a class="bib-btn" href="/vivlio/Digalakis_Agios-Onoufrios-o-Aigyptios_Afieroma_2026.pdf" download>Descarregar o livro (PDF, 2,7 MB)</a> <a class="bib-btn bib-btn-alt" href="https://doi.org/10.5281/zenodo.23863219">O livro no Zenodo</a></p>
+<p class="bib-dl"><a class="bib-btn" href="/vivlio/Digalakis_Agios-Onoufrios-o-Aigyptios_Afieroma_2026.pdf" download>Descarregar o livro (PDF, 2,7 MB)</a> <a class="bib-btn bib-btn-alt" href="https://doi.org/10.5281/zenodo.23863219">O livro no Zenodo</a> <a class="bib-btn bib-btn-alt" href="https://www.media365.com/en/book/38d873b7-a559-4bef-9f7f-1db4ddab59c6/agios-onoufrios-o-aigiptios-afieroma">O livro no Media365</a></p>
 
 ## Dados da edição
 
-<div class="table-wrap"><table class="book-meta"><tr><th>Autor</th><td>Jason Digalakis (Ιάσων Διγαλάκης)</td></tr><tr><th>Título</th><td><span lang="el">Άγιος Ονούφριος ο Αιγύπτιος: Αφιέρωμα. Βίος, υμνογραφία, πατερικά και λειτουργικά κείμενα</span></td></tr><tr><th>Edição</th><td>1.ª edição, Atenas 2026</td></tr><tr><th>Páginas</th><td>viii + 113 (17 × 24 cm)</td></tr><tr><th>Língua</th><td>Grego</td></tr><tr><th>Licença</th><td>Creative Commons Atribuição – Sem Derivações 4.0 (CC BY-ND 4.0)</td></tr><tr><th>DOI</th><td><a href="https://doi.org/10.5281/zenodo.23863219">10.5281/zenodo.23863219</a></td></tr></table></div>
+<div class="table-wrap"><table class="book-meta"><tr><th>Autor</th><td>Jason Digalakis (Ιάσων Διγαλάκης)</td></tr><tr><th>Título</th><td><span lang="el">Άγιος Ονούφριος ο Αιγύπτιος: Αφιέρωμα. Βίος, υμνογραφία, πατερικά και λειτουργικά κείμενα</span></td></tr><tr><th>Edição</th><td>1.ª edição, Atenas 2026</td></tr><tr><th>Páginas</th><td>viii + 113 (17 × 24 cm)</td></tr><tr><th>Língua</th><td>Grego</td></tr><tr><th>Licença</th><td>Creative Commons Atribuição – Sem Derivações 4.0 (CC BY-ND 4.0)</td></tr><tr><th>DOI</th><td><a href="https://doi.org/10.5281/zenodo.23863219">10.5281/zenodo.23863219</a></td></tr><tr><th>Disponível também em</th><td><a href="https://www.media365.com/en/book/38d873b7-a559-4bef-9f7f-1db4ddab59c6/agios-onoufrios-o-aigiptios-afieroma">Media365 (leitura também no telemóvel, através da aplicação)</a></td></tr></table></div>
 
 <p class="note">O livro pode ser livremente reproduzido, impresso e distribuído, desde que se indique o autor e o conteúdo não seja alterado de modo algum.</p>
 
