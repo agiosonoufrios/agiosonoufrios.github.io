@@ -192,3 +192,12 @@ table.numerals.compact tr.th-row td { text-align: left; background: #FFF8EA; bor
 .edition-box p { margin: .3rem 0; }
 .edition-box .edition-label { font-variant: small-caps; letter-spacing: .04em; font-weight: 700; color: var(--bordo); margin-top: 0; }
 .site-foot .translation-notice { max-width: 42rem; margin: 0 auto .7rem; font-size: .76rem; line-height: 1.5; color: var(--muted, #6b5a4a); border-bottom: 1px dotted var(--gold-line); padding-bottom: .6rem; }
+
+/* ===== Σελίδα «Το βιβλίο» ===== */
+.book-cover { width: 200px; }
+.book-cover img { box-shadow: 0 4px 14px rgba(60,0,0,.35); border-radius: 2px; }
+table.book-meta { border-collapse: collapse; width: 100%; font-size: .95rem; }
+table.book-meta th { text-align: left; color: var(--bordo); padding: .45rem .8rem .45rem 0; vertical-align: top; white-space: nowrap; border-bottom: 1px solid var(--gold-line); }
+table.book-meta td { padding: .45rem 0; border-bottom: 1px solid var(--gold-line); }
+.cite-box { background: #FFF8EA; border-left: 3px solid var(--gold-dark); padding: .8rem 1rem; font-size: .95rem; }
+.bib-btn-alt { background: transparent !important; color: var(--bordo) !important; border: 1px solid var(--bordo); }

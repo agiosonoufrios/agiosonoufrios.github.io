@@ -41,6 +41,10 @@ timeZone = "Europe/Athens"
       name = "Πηγές – Βιβλιογραφία"
       pageRef = "/vivliografia"
       weight = 40
+    [[languages.el.menus.main]]
+      name = "Το βιβλίο"
+      pageRef = "/vivlio"
+      weight = 50
 
   [languages.en]
     languageName = "EN"
@@ -67,6 +71,10 @@ timeZone = "Europe/Athens"
       name = "Sources & Bibliography"
       pageRef = "/bibliography"
       weight = 40
+    [[languages.en.menus.main]]
+      name = "The Book"
+      pageRef = "/book"
+      weight = 50
 
   [languages.pt]
     languageName = "PT"
@@ -93,6 +101,10 @@ timeZone = "Europe/Athens"
       name = "Fontes e Bibliografia"
       pageRef = "/bibliografia"
       weight = 40
+    [[languages.pt.menus.main]]
+      name = "O Livro"
+      pageRef = "/livro"
+      weight = 50
 
 [markup.tableOfContents]
   startLevel = 2
