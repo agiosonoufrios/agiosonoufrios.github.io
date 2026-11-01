@@ -43,5 +43,3 @@ weight: 140
 <div class="hymn">Alegra-te, santificado e divino tabernáculo do Altíssimo; pois por ti, ó Theotokos, foi dada a alegria aos que clamam: Bendita és tu entre as mulheres, ó toda imaculada Senhora.</div>
 
 <details class="orig"><summary>Texto grego</summary><p lang="el">Τὸ τοῦ Ὑψίστου ἡγιασμένον θεῖον σκήνωμα, χαῖρε· διὰ σοῦ γὰρ δέδοται ἡ χαρά, Θεοτόκε, τοῖς κραυγάζουσιν· Εὐλογημένη σὺ ἐν γυναιξὶν ὑπάρχεις, πανάμωμε Δέσποινα.</p></details>
-
-<p class="signature">Esta página contém uma pequena homenagem a Santo Onofre, meu protetor, que, com as suas súplicas ao Senhor, me ajudou e me ajuda em situações difíceis.<br><span>Jason Digalakis</span></p>

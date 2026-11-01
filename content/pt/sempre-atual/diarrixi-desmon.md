@@ -7,5 +7,3 @@ weight: 40
 ---
 
 Quebrar os laços que prendem o homem ao trabalho extenuante e à riqueza é coisa difícil na nossa época, cheia de preocupações e consumista, mas pode tornar-se realidade com a graça de Cristo.
-
-<p class="signature">Esta página contém uma pequena homenagem a Santo Onofre, meu protetor, que, com as suas súplicas ao Senhor, me ajudou e me ajuda em situações difíceis.<br><span>Jason Digalakis</span></p>

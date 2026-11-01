@@ -40,5 +40,3 @@ As ligações seguintes, para textos gregos relacionados com o descanso dominica
 - <span lang="el">[Η αργία της Κυριακής: η καθιέρωσή της το 1909 και ο ανταγωνισμός των καταστηματαρχών](http://tvxs.gr/news/blogarontas/i-argia-tis-kyriakis-i-kathierosi-tis-1909-kai-o-antagonismos-ton-katastimatarxon)</span>
 
 <p class="note">As ligações foram reunidas em 2014; alguns sítios podem entretanto ter mudado ou deixado de existir.</p>
-
-<p class="signature">Esta página contém uma pequena homenagem a Santo Onofre, meu protetor, que, com as suas súplicas ao Senhor, me ajudou e me ajuda em situações difíceis.<br><span>Jason Digalakis</span></p>

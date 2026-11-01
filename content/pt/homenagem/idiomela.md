@@ -47,8 +47,6 @@ weight: 20
 
 </ol>
 
-<p class="signature">Esta página contém uma pequena homenagem a Santo Onofre, meu protetor, que, com as suas súplicas ao Senhor, me ajudou e me ajuda em situações difíceis.<br><span>Jason Digalakis</span></p>
-
 <ol class="notes-manual">
 <li id="idio-n1">Cf. Ef 6,10–17. <a href="#idio-r1" aria-label="Voltar ao texto">↩</a></li>
 </ol>

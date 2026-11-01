@@ -11,5 +11,3 @@ Os fiéis ortodoxos, como membros da Igreja, não se esforçam por criar uma com
 [^n1]: Mt 25,34.
 [^n2]: Jo 18,36.
 [^n3]: Ef 3,9.
-
-<p class="signature">Esta página contém uma pequena homenagem a Santo Onofre, meu protetor, que, com as suas súplicas ao Senhor, me ajudou e me ajuda em situações difíceis.<br><span>Jason Digalakis</span></p>

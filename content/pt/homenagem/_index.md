@@ -9,7 +9,7 @@ bibliography: "afieroma-pt"
 
 <figure class="figure-right">
 <img src="/images/agios-onoufrios.jpg" alt="Ícone de Santo Onofre, o Egípcio" width="1280" height="1600" loading="lazy">
-<figcaption>Santo Onofre, o Egípcio. Inscrição: «Súplica de Jason Digalakis» (<span lang="el">Δέησις Διγαλάκη Ιάσονα</span>).</figcaption>
+<figcaption>Santo Onofre, o Egípcio.</figcaption>
 </figure>
 
 <p class="note">Tradução do original grego. As passagens bíblicas, patrísticas e litúrgicas foram traduzidas diretamente do grego; o texto original de cada passagem pode ser apresentado por baixo dela.</p>
@@ -303,8 +303,6 @@ Sê porto sereno para todos os que te honram no meio das tempestades da vida, ó
 </div>
 
 <details class="orig"><summary>Texto grego</summary><p lang="el">Ὅρμος γαληνὸς ἴσθι πάντων τῶν τιμώντων σε ἐν τοῖς κλύδωσι τοῦ βίου, θαυμαστὲ ἐρημῖτα τῆς Νειλῴας γῆς, Ὀνούφριε.</p></details>
-
-<p class="signature">Esta página contém uma pequena homenagem a Santo Onofre, meu protetor, que, com as suas súplicas ao Senhor, me ajudou e me ajuda em situações difíceis.<br><span>Jason Digalakis</span></p>
 
 [^sir2a]: Sir 2,1–9.
 [^sir2b]: Sir 2,10–18.

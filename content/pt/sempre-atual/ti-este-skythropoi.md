@@ -10,5 +10,3 @@ weight: 150
 
 [^s1]: Lc 24,17.
 [^s2]: Cf. Mt 28,20.
-
-<p class="signature">Esta página contém uma pequena homenagem a Santo Onofre, meu protetor, que, com as suas súplicas ao Senhor, me ajudou e me ajuda em situações difíceis.<br><span>Jason Digalakis</span></p>

@@ -219,5 +219,3 @@ Antes da Divina Liturgia, o sacerdote e o diácono preparam-se com orações dia
 <p class="lit"><span class="who">Ιερεύς</span> Ευλογημένη η Βασιλεία του Πατρός και του Υιού και του Αγίου Πνεύματος, νυν και αεί και εις τους αιώνας των αιώνων.</p>
 
 </details>
-
-<p class="signature">Esta página contém uma pequena homenagem a Santo Onofre, meu protetor, que, com as suas súplicas ao Senhor, me ajudou e me ajuda em situações difíceis.<br><span>Jason Digalakis</span></p>

@@ -68,5 +68,3 @@ Quem se prepara para receber a Santa Comunhão lê, depois do ofício vespertino
 <p class="rubric">Καὶ εὐθὺς τὸ «Ἄξιόν ἐστιν». Τρισάγιον. Δόξα· Καὶ νῦν· Παναγία Τριάς· Κύριε, ἐλέησον (γ΄). Δόξα· Καὶ νῦν· Πάτερ ἡμῶν· Ὅτι σοῦ ἐστιν… Καὶ τὰ λοιπὰ τοῦ Ἀποδείπνου καὶ Ἀπόλυσις.</p>
 
 </details>
-
-<p class="signature">Esta página contém uma pequena homenagem a Santo Onofre, meu protetor, que, com as suas súplicas ao Senhor, me ajudou e me ajuda em situações difíceis.<br><span>Jason Digalakis</span></p>

@@ -16,5 +16,3 @@ Mas também não é sem proveito reter-vos aqui mais tempo. Pois que fará algu�
 [^p2]: Sl 18,10–11 (LXX).
 [^p3]: Sl 18,11 (LXX).
 [^p4]: Cf. Basílio Magno, <em>Homilias sobre o Hexaémeron</em>, Homilia 8.
-
-<p class="signature">Esta página contém uma pequena homenagem a Santo Onofre, meu protetor, que, com as suas súplicas ao Senhor, me ajudou e me ajuda em situações difíceis.<br><span>Jason Digalakis</span></p>

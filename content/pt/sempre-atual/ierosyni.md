@@ -15,5 +15,3 @@ O Sacerdócio é um Mistério ao qual se chega por chamamento divino. Também o 
 [^n3]: Hb 5,4.
 [^n4]: Act 6,3.
 [^n5]: Act 14,23.
-
-<p class="signature">Esta página contém uma pequena homenagem a Santo Onofre, meu protetor, que, com as suas súplicas ao Senhor, me ajudou e me ajuda em situações difíceis.<br><span>Jason Digalakis</span></p>

@@ -112,8 +112,6 @@ O sinal da Cruz significa que a Cruz é o caminho e a porta de entrada no Reino 
 
 <p class="note">Continua.</p>
 
-<p class="signature">Esta página contém uma pequena homenagem a Santo Onofre, meu protetor, que, com as suas súplicas ao Senhor, me ajudou e me ajuda em situações difíceis.<br><span>Jason Digalakis</span></p>
-
 [^iw6a]: Cf. Jo 6,53.
 [^iw6b]: Cf. Jo 6,61–63.66.
 [^chrys30]: João Crisóstomo, EPE 30, 394.

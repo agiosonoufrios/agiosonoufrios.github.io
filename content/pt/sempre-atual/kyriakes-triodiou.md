@@ -20,5 +20,3 @@ Todos os Domingos do Triódio têm um nome próprio e formam uma sequência rica
 10. Domingo de Ramos
 
 Ver também [O Triódio](/pt/sempre-atual/triodio/).
-
-<p class="signature">Esta página contém uma pequena homenagem a Santo Onofre, meu protetor, que, com as suas súplicas ao Senhor, me ajudou e me ajuda em situações difíceis.<br><span>Jason Digalakis</span></p>

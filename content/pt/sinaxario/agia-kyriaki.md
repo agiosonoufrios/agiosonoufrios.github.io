@@ -206,8 +206,6 @@ Depois disto, o tirano soltou contra a Santa várias feras, mas nada conseguiu, 
 
 </details>
 
-<p class="signature">Esta página contém uma pequena homenagem a Santo Onofre, meu protetor, que, com as suas súplicas ao Senhor, me ajudou e me ajuda em situações difíceis.<br><span>Jason Digalakis</span></p>
-
 <ol class="notes-manual">
 <li id="ak-n1">Is 43,9–14. <a href="#ak-r1" aria-label="Voltar ao texto">↩</a></li>
 <li id="ak-n2">Sb 5,15–6,3. O título desta leitura faltava na edição anterior e foi completado entre parênteses retos. <a href="#ak-r2" aria-label="Voltar ao texto">↩</a></li>

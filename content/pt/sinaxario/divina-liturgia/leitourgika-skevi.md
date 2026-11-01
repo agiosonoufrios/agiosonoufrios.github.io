@@ -25,5 +25,3 @@ weight: 30
 <figure id="katzio"><a href="/images/skevi/14-katzio.jpg"><img src="/images/skevi/14-katzio.jpg" alt="Katzion (turíbulo de mão)" loading="lazy"></a><figcaption><span class="num">14.</span> <strong>Katzion (turíbulo de mão)</strong></figcaption></figure>
 <figure id="artoforio"><a href="/images/skevi/15-artoforio.jpg"><img src="/images/skevi/15-artoforio.jpg" alt="Pequeno artofório (sacrário)" loading="lazy"></a><figcaption><span class="num">15.</span> <strong>Pequeno artofório (sacrário)</strong></figcaption></figure>
 </div>
-
-<p class="signature">Esta página contém uma pequena homenagem a Santo Onofre, meu protetor, que, com as suas súplicas ao Senhor, me ajudou e me ajuda em situações difíceis.<br><span>Jason Digalakis</span></p>
