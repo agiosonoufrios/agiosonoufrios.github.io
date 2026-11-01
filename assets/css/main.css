@@ -166,3 +166,19 @@ details.service[open] > summary { margin-bottom: 1rem; }
 .source { font-size: .9rem; color: var(--muted, #6b5a4a); font-style: italic; margin: .4rem 0 1.2rem; }
 .verse-author { text-align: center; font-style: italic; font-size: .92rem; margin-top: -.4rem; }
 span.source { display: block; }
+
+/* ===== Πηγές – Βιβλιογραφία ===== */
+.table-wrap { overflow-x: auto; margin: 1rem 0 1.5rem; }
+table.numerals { border-collapse: collapse; width: 100%; font-size: .95rem; }
+table.numerals th, table.numerals td { border: 1px solid var(--gold-line); padding: .45rem .7rem; text-align: left; }
+table.numerals thead th { background: var(--bordo); color: #fff; font-weight: 700; }
+table.numerals tbody tr:nth-child(even) { background: #FFFBF2; }
+.grnum { font-size: 1.1em; color: var(--bordo); font-weight: 600; }
+ol.pg-links { columns: 2 18rem; column-gap: 2rem; font-size: .9rem; margin: .8rem 0 0; }
+ol.pg-links li { break-inside: avoid; margin-bottom: .25rem; }
+ol.pg-links code { font-size: .85em; color: var(--muted, #6b5a4a); }
+table.numerals.compact th, table.numerals.compact td { text-align: center; padding: .4rem .5rem; }
+table.numerals.compact thead tr:first-child th { border-bottom-color: rgba(255,255,255,.4); }
+table.numerals.compact thead tr:nth-child(2) th { background: #7a1a12; font-weight: 400; font-size: .85rem; }
+table.numerals.compact td:nth-child(3n) { border-right: 2px solid var(--bordo); }
+table.numerals.compact tr.th-row td { text-align: left; background: #FFF8EA; border-right: 1px solid var(--gold-line); }
