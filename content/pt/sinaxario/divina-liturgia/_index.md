@@ -110,8 +110,6 @@ A Divina Liturgia começa com a doxologia de Deus Trino, «Bendito seja o Reino 
 
 O sinal da Cruz significa que a Cruz é o caminho e a porta de entrada no Reino de Deus. Neste momento o povo responde à exclamação doxológica do celebrante dizendo «Ámen» (isto é, «assim seja»), o que mostra que a Divina Liturgia é obra de todo o Povo, celebrantes e concelebrantes.
 
-<p class="note">Continua.</p>
-
 [^iw6a]: Cf. Jo 6,53.
 [^iw6b]: Cf. Jo 6,61–63.66.
 [^chrys30]: João Crisóstomo, EPE 30, 394.

@@ -17,6 +17,8 @@ Santa Ciríaca (Kyriaki), Grande-Mártir, comemorada a 7 de julho, sofreu o mart
 
 <p class="note">A Vida e os hinos foram traduzidos do grego; o texto original de cada hino pode ser apresentado por baixo dele. O ofício litúrgico é apresentado no original grego, como é costume nos textos litúrgicos.</p>
 
+<div class="edition-box"><p class="edition-label">Edição completa</p><p>A homenagem a Santa Ciríaca está disponível numa edição completa como livro eletrónico (em grego): Jason Digalakis, <em lang="el">Εις μνήμη της Αγίας ενδόξου Μεγαλομάρτυρος και Αθλοφόρου του Χριστού Κυριακής</em>, 2.ª edição, Media365 – Ebooks, julho de 2019.</p><p><a class="bib-btn" href="https://www.media365.com/en/book/5776b1da-f79f-4992-babb-33a4b2705670/is-mnimi-tis-agias-endoxou-megalomartiros-kai-athloforou-tou-christou-kiriakis-v-ekdosi" rel="noopener">O livro no Media365</a></p></div>
+
 ## Vida (segundo o Sinaxário)
 
 No tempo do imperador Diocleciano, no ano 282 segundo o Sinaxário, vivia um casal cristão chamado Doroteu e Eusébia. Não tendo filhos, suplicavam a Deus que lhes concedesse uma criança, prometendo oferecê-la de novo a Ele. Deus ouviu a sua oração, e nasceu-lhes uma filha num domingo (*Kyriaki*, «o Dia do Senhor»); por isso lhe deram o nome de Ciríaca. Depois de a batizarem, criaram-na «na disciplina e na instrução do Senhor», como diz o Apóstolo, e guardaram-na virgem, pois tencionavam consagrá-la a Deus.

@@ -110,8 +110,6 @@ The Divine Liturgy begins with the doxology of the Triune God, “Blessed is the
 
 The sign of the Cross signifies that the Cross is the way and the door of entrance into the Kingdom of God. At this point the people respond to the doxological exclamation of the celebrant by saying “Amen” (that is, “so be it”), which shows that the Divine Liturgy is the work of the whole People, of celebrants and concelebrants alike.
 
-<p class="note">To be continued.</p>
-
 [^iw6a]: Cf. John 6:53.
 [^iw6b]: Cf. John 6:61–63, 66.
 [^chrys30]: John Chrysostom, EPE 30, 394.

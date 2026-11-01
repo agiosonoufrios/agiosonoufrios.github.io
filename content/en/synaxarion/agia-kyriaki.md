@@ -17,6 +17,8 @@ Saint Kyriaki (Kyriake) the Great-Martyr, commemorated on 7 July, suffered under
 
 <p class="note">The Life and the hymns are translated from the Greek; the original text of each hymn can be displayed beneath it. The liturgical service itself is given in the original Greek, as is customary for liturgical texts.</p>
 
+<div class="edition-box"><p class="edition-label">Complete edition</p><p>The tribute to Saint Kyriaki is available in a complete edition as an e-book (in Greek): Jason Digalakis, <em lang="el">Εις μνήμη της Αγίας ενδόξου Μεγαλομάρτυρος και Αθλοφόρου του Χριστού Κυριακής</em>, 2nd edition, Media365 – Ebooks, July 2019.</p><p><a class="bib-btn" href="https://www.media365.com/en/book/5776b1da-f79f-4992-babb-33a4b2705670/is-mnimi-tis-agias-endoxou-megalomartiros-kai-athloforou-tou-christou-kiriakis-v-ekdosi" rel="noopener">The book on Media365</a></p></div>
+
 ## Life (from the Synaxarion)
 
 In the time of the Emperor Diocletian, in the year 282 according to the Synaxarion, there lived a Christian couple named Dorotheus and Eusebia. Being childless, they besought God to grant them a child, promising to offer the child back to Him. God heard their prayer, and a daughter was born to them on a Sunday (*Kyriaki*, “the Lord’s Day”); for this reason they named her Kyriaki. Having baptised her, they brought her up “in the discipline and instruction of the Lord”, as the Apostle says, and kept her a virgin, since they intended to dedicate her to God.
