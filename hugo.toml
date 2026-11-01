@@ -13,7 +13,7 @@ timeZone = "Europe/Athens"
 
 [params]
   # Κωδικοί επαλήθευσης μηχανών αναζήτησης (συμπληρώνονται όταν δοθούν)
-  googleSiteVerification = ""
+  googleSiteVerification = "ua_VcgEWo0Bi2tQj7xZQGMIpddJJFIlZwIri0y9z8sA"
   bingSiteVerification = ""
   yandexVerification = ""
   author = "Jason Digalakis"
