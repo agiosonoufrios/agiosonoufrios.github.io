@@ -12,6 +12,10 @@ timeZone = "Europe/Athens"
   typographer = false
 
 [params]
+  # Κωδικοί επαλήθευσης μηχανών αναζήτησης (συμπληρώνονται όταν δοθούν)
+  googleSiteVerification = ""
+  bingSiteVerification = ""
+  yandexVerification = ""
   author = "Jason Digalakis"
   since = 2004
 
