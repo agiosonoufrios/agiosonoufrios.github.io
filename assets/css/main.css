@@ -182,3 +182,7 @@ table.numerals.compact thead tr:first-child th { border-bottom-color: rgba(255,2
 table.numerals.compact thead tr:nth-child(2) th { background: #7a1a12; font-weight: 400; font-size: .85rem; }
 table.numerals.compact td:nth-child(3n) { border-right: 2px solid var(--bordo); }
 table.numerals.compact tr.th-row td { text-align: left; background: #FFF8EA; border-right: 1px solid var(--gold-line); }
+
+/* ===== Αφιέρωση στο υποσέλιδο ===== */
+.site-foot .dedication { max-width: 42rem; margin: 0 auto .5rem; font-size: .82rem; line-height: 1.55; font-style: italic; color: var(--muted, #6b5a4a); }
+.site-foot .dedication-name { white-space: nowrap; font-style: normal; }

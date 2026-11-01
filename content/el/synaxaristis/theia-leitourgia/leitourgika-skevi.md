@@ -25,5 +25,3 @@ weight: 30
 <figure id="katzio"><a href="/images/skevi/14-katzio.jpg"><img src="/images/skevi/14-katzio.jpg" alt="Κατζίο" loading="lazy"></a><figcaption><span class="num">14.</span> <strong>Κατζίο</strong></figcaption></figure>
 <figure id="artoforio"><a href="/images/skevi/15-artoforio.jpg"><img src="/images/skevi/15-artoforio.jpg" alt="Αρτοφόριο μικρό" loading="lazy"></a><figcaption><span class="num">15.</span> <strong>Αρτοφόριο μικρό</strong></figcaption></figure>
 </div>
-
-<p class="signature">Η παρούσα σελίδα περιέχει ένα μικρό αφιέρωμα στον Άγιο Ονούφριο τον προστάτη μου, εκείνον που με τις παρακλήσεις του στον Κύριο με βοήθησε και με βοηθά σε δύσκολες καταστάσεις.<br><span>Ιάσων Διγαλάκης</span></p>
