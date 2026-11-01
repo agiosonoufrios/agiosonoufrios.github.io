@@ -20,5 +20,3 @@ All the Sundays of the Triodion have a specific name and form a sequence rich in
 10. Palm Sunday
 
 See also [The Triodion](/en/ever-timely/triodio/).
-
-<p class="signature">This page contains a small tribute to Saint Onuphrius, my protector, who through his entreaties to the Lord has helped me, and helps me, in difficult circumstances.<br><span>Jason Digalakis</span></p>

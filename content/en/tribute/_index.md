@@ -9,7 +9,7 @@ bibliography: "afieroma-en"
 
 <figure class="figure-right">
 <img src="/images/agios-onoufrios.jpg" alt="Icon of Saint Onuphrius the Egyptian" width="1280" height="1600" loading="lazy">
-<figcaption>Saint Onuphrius the Egyptian. Inscription: “Supplication of Jason Digalakis” (<span lang="el">Δέησις Διγαλάκη Ιάσονα</span>).</figcaption>
+<figcaption>Saint Onuphrius the Egyptian.</figcaption>
 </figure>
 
 <p class="note">Translated from the Greek original. Biblical, patristic and liturgical passages are rendered directly from the Greek; the original text of each passage can be displayed beneath it.</p>
@@ -303,8 +303,6 @@ Be a calm harbour for all who honour you amid the storms of life, O wondrous her
 </div>
 
 <details class="orig"><summary>Greek text</summary><p lang="el">Ὅρμος γαληνὸς ἴσθι πάντων τῶν τιμώντων σε ἐν τοῖς κλύδωσι τοῦ βίου, θαυμαστὲ ἐρημῖτα τῆς Νειλῴας γῆς, Ὀνούφριε.</p></details>
-
-<p class="signature">This page contains a small tribute to Saint Onuphrius, my protector, who through his entreaties to the Lord has helped me, and helps me, in difficult circumstances.<br><span>Jason Digalakis</span></p>
 
 [^sir2a]: Sir 2:1–9.
 [^sir2b]: Sir 2:10–18.

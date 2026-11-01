@@ -219,5 +219,3 @@ Before the Divine Liturgy the priest and the deacon prepare themselves with pray
 <p class="lit"><span class="who">Ιερεύς</span> Ευλογημένη η Βασιλεία του Πατρός και του Υιού και του Αγίου Πνεύματος, νυν και αεί και εις τους αιώνας των αιώνων.</p>
 
 </details>
-
-<p class="signature">This page contains a small tribute to Saint Onuphrius, my protector, who through his entreaties to the Lord has helped me, and helps me, in difficult circumstances.<br><span>Jason Digalakis</span></p>

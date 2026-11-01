@@ -43,5 +43,3 @@ weight: 140
 <div class="hymn">Rejoice, O sanctified divine tabernacle of the Most High; for through you, O Theotokos, joy has been given to those who cry: Blessed are you among women, O all-immaculate Lady.</div>
 
 <details class="orig"><summary>Greek text</summary><p lang="el">Τὸ τοῦ Ὑψίστου ἡγιασμένον θεῖον σκήνωμα, χαῖρε· διὰ σοῦ γὰρ δέδοται ἡ χαρά, Θεοτόκε, τοῖς κραυγάζουσιν· Εὐλογημένη σὺ ἐν γυναιξὶν ὑπάρχεις, πανάμωμε Δέσποινα.</p></details>
-
-<p class="signature">This page contains a small tribute to Saint Onuphrius, my protector, who through his entreaties to the Lord has helped me, and helps me, in difficult circumstances.<br><span>Jason Digalakis</span></p>

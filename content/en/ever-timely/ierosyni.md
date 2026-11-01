@@ -15,5 +15,3 @@ The Priesthood is a Mystery to which one comes by divine calling. The Mystery of
 [^n3]: Heb 5:4.
 [^n4]: Acts 6:3.
 [^n5]: Acts 14:23.
-
-<p class="signature">This page contains a small tribute to Saint Onuphrius, my protector, who through his entreaties to the Lord has helped me, and helps me, in difficult circumstances.<br><span>Jason Digalakis</span></p>

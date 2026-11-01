@@ -68,5 +68,3 @@ Those preparing to receive Holy Communion read, after the evening service of Com
 <p class="rubric">Καὶ εὐθὺς τὸ «Ἄξιόν ἐστιν». Τρισάγιον. Δόξα· Καὶ νῦν· Παναγία Τριάς· Κύριε, ἐλέησον (γ΄). Δόξα· Καὶ νῦν· Πάτερ ἡμῶν· Ὅτι σοῦ ἐστιν… Καὶ τὰ λοιπὰ τοῦ Ἀποδείπνου καὶ Ἀπόλυσις.</p>
 
 </details>
-
-<p class="signature">This page contains a small tribute to Saint Onuphrius, my protector, who through his entreaties to the Lord has helped me, and helps me, in difficult circumstances.<br><span>Jason Digalakis</span></p>

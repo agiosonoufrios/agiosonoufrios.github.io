@@ -47,8 +47,6 @@ weight: 20
 
 </ol>
 
-<p class="signature">This page contains a small tribute to Saint Onuphrius, my protector, who through his entreaties to the Lord has helped me, and helps me, in difficult circumstances.<br><span>Jason Digalakis</span></p>
-
 <ol class="notes-manual">
 <li id="idio-n1">Cf. Eph 6:10–17. <a href="#idio-r1" aria-label="Back to text">↩</a></li>
 </ol>

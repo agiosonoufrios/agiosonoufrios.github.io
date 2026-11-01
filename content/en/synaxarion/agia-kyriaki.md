@@ -206,8 +206,6 @@ After this the tyrant let loose various wild beasts against the Saint, but achie
 
 </details>
 
-<p class="signature">This page contains a small tribute to Saint Onuphrius, my protector, who through his entreaties to the Lord has helped me, and helps me, in difficult circumstances.<br><span>Jason Digalakis</span></p>
-
 <ol class="notes-manual">
 <li id="ak-n1">Isa 43:9–14. <a href="#ak-r1" aria-label="Back to text">↩</a></li>
 <li id="ak-n2">Wis 5:15–6:3. The title of this reading was missing from the earlier edition and has been supplied in brackets. <a href="#ak-r2" aria-label="Back to text">↩</a></li>

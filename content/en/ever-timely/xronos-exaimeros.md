@@ -16,5 +16,3 @@ But keeping you here longer is not without benefit either. For what would anyone
 [^p2]: Ps 18:10–11 (LXX).
 [^p3]: Ps 18:11 (LXX).
 [^p4]: Cf. Basil the Great, <em>Homilies on the Hexaemeron</em>, Homily 8.
-
-<p class="signature">This page contains a small tribute to Saint Onuphrius, my protector, who through his entreaties to the Lord has helped me, and helps me, in difficult circumstances.<br><span>Jason Digalakis</span></p>

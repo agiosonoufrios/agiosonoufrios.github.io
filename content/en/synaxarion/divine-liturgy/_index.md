@@ -112,8 +112,6 @@ The sign of the Cross signifies that the Cross is the way and the door of entran
 
 <p class="note">To be continued.</p>
 
-<p class="signature">This page contains a small tribute to Saint Onuphrius, my protector, who through his entreaties to the Lord has helped me, and helps me, in difficult circumstances.<br><span>Jason Digalakis</span></p>
-
 [^iw6a]: Cf. John 6:53.
 [^iw6b]: Cf. John 6:61–63, 66.
 [^chrys30]: John Chrysostom, EPE 30, 394.

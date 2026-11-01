@@ -7,5 +7,3 @@ weight: 10
 ---
 
 Our Lord created Sunday for prayer, for the enjoyment of the Divine Liturgy, for the study of Holy Scripture and for works of love. Let us rejoice and be glad, and let us give glory to Christ, who rose on this day, together with the Father and the Holy Spirit, now and ever and unto the endless ages. Amen.
-
-<p class="signature">This page contains a small tribute to Saint Onuphrius, my protector, who through his entreaties to the Lord has helped me, and helps me, in difficult circumstances.<br><span>Jason Digalakis</span></p>

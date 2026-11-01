@@ -25,5 +25,3 @@ weight: 30
 <figure id="katzio"><a href="/images/skevi/14-katzio.jpg"><img src="/images/skevi/14-katzio.jpg" alt="Katzion (hand censer)" loading="lazy"></a><figcaption><span class="num">14.</span> <strong>Katzion (hand censer)</strong></figcaption></figure>
 <figure id="artoforio"><a href="/images/skevi/15-artoforio.jpg"><img src="/images/skevi/15-artoforio.jpg" alt="Small artophorion (tabernacle)" loading="lazy"></a><figcaption><span class="num">15.</span> <strong>Small artophorion (tabernacle)</strong></figcaption></figure>
 </div>
-
-<p class="signature">This page contains a small tribute to Saint Onuphrius, my protector, who through his entreaties to the Lord has helped me, and helps me, in difficult circumstances.<br><span>Jason Digalakis</span></p>

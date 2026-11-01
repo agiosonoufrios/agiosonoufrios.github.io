@@ -10,5 +10,3 @@ weight: 150
 
 [^s1]: Luke 24:17.
 [^s2]: Cf. Matt 28:20.
-
-<p class="signature">This page contains a small tribute to Saint Onuphrius, my protector, who through his entreaties to the Lord has helped me, and helps me, in difficult circumstances.<br><span>Jason Digalakis</span></p>

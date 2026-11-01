@@ -11,5 +11,3 @@ The Orthodox faithful, as members of the Church, do not strive to create a commu
 [^n1]: Matt 25:34.
 [^n2]: John 18:36.
 [^n3]: Eph 3:9.
-
-<p class="signature">This page contains a small tribute to Saint Onuphrius, my protector, who through his entreaties to the Lord has helped me, and helps me, in difficult circumstances.<br><span>Jason Digalakis</span></p>
