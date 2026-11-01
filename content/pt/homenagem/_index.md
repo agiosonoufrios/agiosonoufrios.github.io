@@ -26,7 +26,7 @@ Segundo, pois, São Pafnúcio, o pai de Santo Onofre era rei da Pérsia. A sua m
 
 Assim fez o pai do Santo. Enquanto seguia com os servos em direção ao Egito, acompanhava-os, por inspiração e vontade divinas, uma corça que alimentava o recém-nascido com o seu leite durante toda aquela viagem, para admiração e espanto de todos. Quando chegaram ao mosteiro, o pai de Santo Onofre contou tudo ao Hegúmeno do Mosteiro, que disse: «Aqui nunca se aproximou mulher alguma. Como é possível alimentar a criança?» O pai do Santo respondeu: «Assim como o Senhor providenciou e a corça que o alimentava nos acompanhou durante todo o caminho, assim também, por ordem divina, ela virá aqui todos os dias para o amamentar, até que cresça.» E assim o Hegúmeno consentiu, e Onofre ficou naquele cenóbio. O pai partiu para o palácio, e a corça vinha todos os dias, até ao terceiro ano, e amamentava-o.
 
-O nosso venerável pai Onofre, tendo a sua origem na terra do Egito, viveu ali uma vida de extremo amor a Deus e ao próximo, de humildade exemplar e comovente, de quietude purificadora das paixões e de cultivo das virtudes em vista da comunhão com Deus e do conhecimento de si mesmo, e de um desprendimento tal que, em vez de vestes para cobrir o corpo, usava a sua longuíssima barba.
+O nosso venerável pai Onofre viveu no Egito uma vida de extremo amor a Deus e ao próximo, de humildade exemplar e comovente, de quietude purificadora das paixões e de cultivo das virtudes em vista da comunhão com Deus e do conhecimento de si mesmo, e de um desprendimento tal que, em vez de vestes para cobrir o corpo, usava a sua longuíssima barba.
 
 ## A paciência nas provações
 

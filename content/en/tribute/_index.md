@@ -26,7 +26,7 @@ According, then, to Saint Paphnutius, the father of Saint Onuphrius was a king o
 
 So the Saint’s father did. As he made his way towards Egypt with his servants, a hind accompanied them by divine command and will, nourishing the newborn with her milk for as long as the whole journey lasted, to the wonder and astonishment of all. When they reached the monastery, the father of Saint Onuphrius related everything to the Abbot of the Monastery, who said: “No woman has ever come near this place. How is it possible for the child to be fed?” The Saint’s father replied: “Just as the Lord provided, and the hind that fed him accompanied us the whole way, so again, by divine command, she will come here every day to suckle him until he grows up.” And so the Abbot consented, and Onuphrius remained in that coenobium. His father departed for the palace, and the hind came every day until the third year and suckled him.
 
-Our venerable father Onuphrius, having his origin in the land of Egypt, lived there a life of utmost love towards God and neighbour, of exemplary and moving humility, of stillness that purifies the passions, and of the cultivation of the virtues for the sake of communion with God and knowledge of himself, and of such non-possessiveness that, instead of garments to cover his body, he used his exceedingly long beard.
+Our venerable father Onuphrius lived in Egypt a life of utmost love towards God and neighbour, of exemplary and moving humility, of stillness that purifies the passions, and of the cultivation of the virtues for the sake of communion with God and knowledge of himself, and of such non-possessiveness that, instead of garments to cover his body, he used his exceedingly long beard.
 
 ## Endurance in Temptation
 
