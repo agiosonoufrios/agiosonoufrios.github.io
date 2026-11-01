@@ -5,6 +5,7 @@ translationKey: "epikaira-argia-kyriakis"
 date: 2011-01-08
 weight: 20
 toc: true
+lastmod: 2026-11-01
 ---
 
 The Lord created Sunday so that we might rejoice in it, not darkened by drunkenness and shameful deeds, but finding delight in the study of the Holy Scriptures. God gave us this day, on which He destroyed the power of death, and named it <em>Kyriaki</em>, the Lord’s Day, so that from its very name we might honour the day and keep the commandments of the Lord. **Do not pass over the commandment of Sunday rest, do not steal His day, do not separate yourself from prayer, do not keep away from the Divine Liturgy.** There is nothing higher than the church. It is higher than heaven, brighter than the sun, more radiant than the whole world.

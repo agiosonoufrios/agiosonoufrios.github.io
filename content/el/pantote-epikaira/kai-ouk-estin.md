@@ -4,6 +4,7 @@ description: "Ο Άγιος Νικόδημος ο Αγιορείτης ερμη�
 translationKey: "epikaira-kai-ouk-estin"
 date: 2011-01-03
 weight: 80
+lastmod: 2026-11-01
 ---
 
 <div class="hymn">Καὶ οὐκ ἔστιν ἐν τῷ καιρῷ τούτῳ ἄρχων καὶ προφήτης καὶ ἡγούμενος…</div>

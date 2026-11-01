@@ -5,6 +5,7 @@ description: "Ο βίος, η άσκηση και η υμνογραφία του
 translationKey: "tribute"
 toc: true
 bibliography: "afieroma"
+lastmod: 2026-11-01
 ---
 
 <figure class="figure-right">

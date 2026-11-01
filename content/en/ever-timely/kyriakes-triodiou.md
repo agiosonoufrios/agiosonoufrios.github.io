@@ -4,6 +4,7 @@ description: "The ten Sundays of the Triodion in order."
 translationKey: "epikaira-kyriakes-triodiou"
 date: 2011-02-20
 weight: 120
+lastmod: 2026-11-01
 ---
 
 All the Sundays of the Triodion have a specific name and form a sequence rich in meaning and message. In order, the Sundays of the Triodion are:

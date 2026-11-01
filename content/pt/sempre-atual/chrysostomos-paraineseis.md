@@ -4,6 +4,7 @@ description: "São João Crisóstomo sobre o respeito pelo ofício sacerdotal e 
 translationKey: "epikaira-chrysostomos-paraineseis"
 date: 2011-02-13
 weight: 70
+lastmod: 2026-11-01
 ---
 
 <p class="source">Das exortações de São João Crisóstomo, traduzido a partir de uma versão grega.</p>

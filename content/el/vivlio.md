@@ -3,6 +3,7 @@ title: "Το βιβλίο"
 subtitle: "Άγιος Ονούφριος ο Αιγύπτιος: Αφιέρωμα — έντυπη έκδοση (PDF)"
 description: "Άγιος Ονούφριος ο Αιγύπτιος: Αφιέρωμα — έντυπη έκδοση (PDF)"
 translationKey: "book"
+lastmod: 2026-11-01
 ---
 
 <figure class="figure-right book-cover"><a href="/vivlio/Digalakis_Agios-Onoufrios-o-Aigyptios_Afieroma_2026.pdf"><img src="/images/vivlio-exofyllo.jpg" alt="Άγιος Ονούφριος ο Αιγύπτιος: Αφιέρωμα — έντυπη έκδοση (PDF)" width="240" height="339"></a></figure>

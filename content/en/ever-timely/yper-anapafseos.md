@@ -4,6 +4,7 @@ description: "The Saturdays of Souls and the memorial services for the departed.
 translationKey: "epikaira-yper-anapafseos"
 date: 2011-02-20
 weight: 130
+lastmod: 2026-11-01
 ---
 
 The Fathers of the Church have appointed the Saturday before Meatfare Sunday and the Saturday before Pentecost as Saturdays of Souls, days dedicated to the souls of our departed brethren. On these days above all, then, the Church celebrates the holy Memorial Services for her children who rest in Christ.

@@ -4,6 +4,7 @@ subtitle: "Da hinografia da festa do Santo (12 de junho)"
 description: "Idiomela e prosómia do ofício de Santo Onofre, o Egípcio."
 translationKey: "idiomela"
 weight: 20
+lastmod: 2026-11-01
 ---
 
 <p class="note">Tradução do original grego; o texto original de cada hino pode ser apresentado por baixo dele. No original grego foram corrigidos apenas erros tipográficos evidentes da edição anterior. O idiomelon «Procuraste, ó teóforo», que aparecia duas vezes, é apresentado uma só vez.</p>

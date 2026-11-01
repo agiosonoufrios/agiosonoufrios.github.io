@@ -3,6 +3,7 @@ title: "A preparação do prósforo"
 description: "A preparação do prósforo"
 translationKey: "proskomidi-proetoimasia-prosforou"
 weight: 30
+lastmod: 2026-11-01
 ---
 
 <p>Deve ser amassado num momento em que, se possível, não haja mais ninguém em casa. Não ouvimos rádio nem vemos televisão, e confessámos os pecados que nos pesam. Incensamos o nosso espaço, neste caso a cozinha; a nossa lamparina está acesa; acendemos também a vela diante do ícone da Theotokos e começamos. Deve sublinhar-se que é obrigatório usar fermento natural (massa-mãe) e não levedura. Também para o amassar guardamos toalhas e utensílios próprios, que não usamos para outras atividades, por exemplo para doces ou comida.</p>

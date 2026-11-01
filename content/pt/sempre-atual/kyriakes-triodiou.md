@@ -4,6 +4,7 @@ description: "Os dez Domingos do Triódio por ordem."
 translationKey: "epikaira-kyriakes-triodiou"
 date: 2011-02-20
 weight: 120
+lastmod: 2026-11-01
 ---
 
 Todos os Domingos do Triódio têm um nome próprio e formam uma sequência rica de sentido e de mensagem. Por ordem, os Domingos do Triódio são:

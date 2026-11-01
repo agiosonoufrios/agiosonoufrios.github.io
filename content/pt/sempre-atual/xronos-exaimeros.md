@@ -4,6 +4,7 @@ description: "Passagens das Homilias de Basílio Magno sobre o Hexaémeron acerc
 translationKey: "epikaira-xronos-exaimeros"
 date: 2011-01-30
 weight: 100
+lastmod: 2026-11-01
 ---
 
 <span class="source">Passagens das Homilias de Basílio Magno sobre o Hexaémeron, traduzidas a partir de uma versão grega.</span>[^p4]

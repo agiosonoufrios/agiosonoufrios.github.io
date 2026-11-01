@@ -4,6 +4,7 @@ subtitle: "The Canon for Holy Communion, with an alphabetical acrostic"
 description: "The Canon of preparation for Holy Communion, read at Compline on the eve of receiving the Holy Mysteries."
 translationKey: "akolouthia-metalipseos"
 weight: 10
+lastmod: 2026-11-01
 ---
 
 Those preparing to receive Holy Communion read, after the evening service of Compline, a Canon of nine odes whose troparia form an alphabetical acrostic: the initial letters of the successive troparia spell out the Greek alphabet from Alpha to Omega. In the Greek text below these initial letters are highlighted. The Kontakion of the Canon is given here in translation; the full service follows in the original Greek, as is customary for liturgical texts.

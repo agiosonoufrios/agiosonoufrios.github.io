@@ -4,6 +4,7 @@ subtitle: "Encíclica do falecido Arcebispo Cristódulo de Atenas e de Toda a Gr
 description: "Sobre a celebração da Santa Proscomídia (Encíclica de 6 de setembro de 2000)"
 translationKey: "proskomidi-egkyklios"
 weight: 10
+lastmod: 2026-11-01
 ---
 
 A encíclica de 6 de setembro de 2000 do falecido Arcebispo Cristódulo de Atenas e de Toda a Grécia, «Sobre a celebração da Santa Proscomídia», está publicada em grego no sítio oficial da Igreja da Grécia.

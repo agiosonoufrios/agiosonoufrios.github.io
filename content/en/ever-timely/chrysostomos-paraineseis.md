@@ -4,6 +4,7 @@ description: "Saint John Chrysostom on respect for the priestly office and order
 translationKey: "epikaira-chrysostomos-paraineseis"
 date: 2011-02-13
 weight: 70
+lastmod: 2026-11-01
 ---
 
 <p class="source">From the exhortations of Saint John Chrysostom, translated from a Greek rendering.</p>

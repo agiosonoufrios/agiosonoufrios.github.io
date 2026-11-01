@@ -3,6 +3,7 @@ title: "The Prosphoron and the Theotokos"
 description: "The Prosphoron and the Theotokos"
 translationKey: "proskomidi-prosforo-theotokos"
 weight: 50
+lastmod: 2026-11-01
 ---
 
 <p>The prosphoron also symbolises the Theotokos herself. Just as our Lord Jesus Christ came forth from her, that is, was born of her pure and virginal blood, so too from the prosphoron comes the portion marked IC XC NI KA (“Jesus Christ conquers”), which will be changed into the Body and Blood of Christ at the Divine Liturgy.</p>

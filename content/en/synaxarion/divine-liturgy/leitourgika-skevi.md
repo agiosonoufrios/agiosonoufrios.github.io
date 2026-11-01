@@ -4,6 +4,7 @@ subtitle: "The principal liturgical vessels of the Holy Prothesis and the Divine
 description: "Photographs and description of the principal liturgical vessels: seal, prosphoron, chalice and paten, lance, star-cover, spoon and others."
 translationKey: "leitourgika-skevi"
 weight: 30
+lastmod: 2026-11-01
 ---
 
 <p class="note">Table 1: The principal liturgical vessels and related items. Click on a photograph to view it at a larger size. On the use of the vessels see also <a href="/en/synaxarion/divine-liturgy/">The Divine Liturgy</a> and <a href="/en/synaxarion/divine-liturgy/diataxi/">The Order of the Divine Liturgy</a>.</p>

@@ -4,6 +4,7 @@ description: "Passages from the Homilies of Basil the Great on the Hexaemeron on
 translationKey: "epikaira-xronos-exaimeros"
 date: 2011-01-30
 weight: 100
+lastmod: 2026-11-01
 ---
 
 <span class="source">Passages from the Homilies of Basil the Great on the Hexaemeron, translated from a Greek rendering.</span>[^p4]

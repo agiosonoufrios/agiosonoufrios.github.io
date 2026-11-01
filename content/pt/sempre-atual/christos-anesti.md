@@ -4,6 +4,7 @@ description: "Hinos da Ressurreição: o Apolitíquio, «Tendo contemplado a Res
 translationKey: "epikaira-christos-anesti"
 date: 2011-04-25
 weight: 140
+lastmod: 2026-11-01
 ---
 
 <p class="rubric">Apolitíquio da Páscoa</p>

@@ -3,6 +3,7 @@ title: "O Livro"
 subtitle: "Santo Onofre, o Egípcio: Homenagem — edição impressa (PDF, em grego)"
 description: "Santo Onofre, o Egípcio: Homenagem — edição impressa (PDF, em grego)"
 translationKey: "book"
+lastmod: 2026-11-01
 ---
 
 <figure class="figure-right book-cover"><a href="/vivlio/Digalakis_Agios-Onoufrios-o-Aigyptios_Afieroma_2026.pdf"><img src="/images/vivlio-exofyllo.jpg" alt="Santo Onofre, o Egípcio: Homenagem — edição impressa (PDF, em grego)" width="240" height="339"></a></figure>

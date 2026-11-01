@@ -4,6 +4,7 @@ description: "Ο Άγιος Ιωάννης ο Χρυσόστομος για το
 translationKey: "epikaira-chrysostomos-paraineseis"
 date: 2011-02-13
 weight: 70
+lastmod: 2026-11-01
 ---
 
 <p class="source">Από τις παραινέσεις του Αγίου Ιωάννου του Χρυσοστόμου, σε μετάφραση.</p>

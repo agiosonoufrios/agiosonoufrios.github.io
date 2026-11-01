@@ -4,6 +4,7 @@ subtitle: "A preparação dos celebrantes, a Vestição e o Ofício da Santa Pro
 description: "A ordem da Preparação, da Vestição e da Santa Proscomídia, segundo o Hieraticon."
 translationKey: "diataxi"
 weight: 20
+lastmod: 2026-11-01
 ---
 
 Antes da Divina Liturgia, o sacerdote e o diácono preparam-se com orações diante dos ícones (o <em>Kairos</em>), revestem-se dos paramentos com versículos próprios e celebram na Prótese o Ofício da Santa Proscomídia, no qual se preparam o pão e o vinho e se comemoram os vivos e os defuntos. O texto abaixo segue o Hieraticon e é apresentado no original grego, como é costume nos textos litúrgicos. As rubricas estão a vermelho; as palavras do Sacerdote e do Diácono vêm assinaladas com o nome de quem fala.

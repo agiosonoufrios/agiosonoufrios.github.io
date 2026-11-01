@@ -6,6 +6,7 @@ translationKey: "theia-leitourgia"
 weight: 20
 toc: true
 bibliography: "afieroma"
+lastmod: 2026-11-01
 ---
 
 ## Η Θεία Λειτουργία και τα μέρη της

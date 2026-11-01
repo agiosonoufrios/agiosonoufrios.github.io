@@ -4,6 +4,7 @@ description: "Saint Nicodemus the Hagiorite on the prayer of Azariah in the Baby
 translationKey: "epikaira-kai-ouk-estin"
 date: 2011-01-03
 weight: 80
+lastmod: 2026-11-01
 ---
 
 <div class="hymn">And there is at this time no ruler, prophet or leader…</div>

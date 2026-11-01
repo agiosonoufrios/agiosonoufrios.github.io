@@ -4,6 +4,7 @@ subtitle: "Encyclical of the late Archbishop Christodoulos of Athens and All Gre
 description: "On the Celebration of the Holy Proskomide (Encyclical of 6 September 2000)"
 translationKey: "proskomidi-egkyklios"
 weight: 10
+lastmod: 2026-11-01
 ---
 
 The encyclical of 6 September 2000 of the late Archbishop Christodoulos of Athens and All Greece, “On the Celebration of the Holy Proskomide”, is published in Greek on the official website of the Church of Greece.

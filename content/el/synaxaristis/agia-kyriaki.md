@@ -6,6 +6,7 @@ translationKey: "agia-kyriaki"
 weight: 10
 toc: true
 bibliography: "afieroma"
+lastmod: 2026-11-01
 ---
 
 <figure class="figure-right">

@@ -4,6 +4,7 @@ description: "Hymns of the Resurrection: the Apolytikion, “Having beheld the R
 translationKey: "epikaira-christos-anesti"
 date: 2011-04-25
 weight: 140
+lastmod: 2026-11-01
 ---
 
 <p class="rubric">Apolytikion of Pascha</p>

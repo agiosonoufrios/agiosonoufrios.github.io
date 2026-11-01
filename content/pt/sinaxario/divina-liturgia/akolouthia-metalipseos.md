@@ -4,6 +4,7 @@ subtitle: "O Cânone para a Santa Comunhão, com acróstico alfabético"
 description: "O Cânone de preparação para a Santa Comunhão, lido nas Completas na véspera de receber os Santos Mistérios."
 translationKey: "akolouthia-metalipseos"
 weight: 10
+lastmod: 2026-11-01
 ---
 
 Quem se prepara para receber a Santa Comunhão lê, depois do ofício vespertino das Completas, um Cânone de nove odes cujos tropários formam um acróstico alfabético: as letras iniciais dos tropários sucessivos formam o alfabeto grego, de Alfa a Ómega. No texto grego abaixo essas letras iniciais estão destacadas. O Contácio do Cânone apresenta-se aqui em tradução; o ofício completo segue-se no original grego, como é costume nos textos litúrgicos.

@@ -2,6 +2,7 @@
 title: "Sinaxário"
 description: "A Divina Liturgia, a Santa Proscomídia, o prósforo e comemorações de Santos."
 translationKey: "synaxarion"
+lastmod: 2026-11-01
 ---
 
 Esta secção reúne ofícios e textos para as comemorações dos Santos, bem como sobre a Divina Liturgia, a Santa Proscomídia e o prósforo. Apresenta-se abaixo o calendário de festas do sítio.

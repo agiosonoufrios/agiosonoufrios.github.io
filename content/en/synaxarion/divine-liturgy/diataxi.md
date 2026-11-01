@@ -4,6 +4,7 @@ subtitle: "The preparation of the celebrants, the Vesting and the Service of the
 description: "The order of the Preparation, the Vesting and the Holy Proskomide, according to the Hieratikon."
 translationKey: "diataxi"
 weight: 20
+lastmod: 2026-11-01
 ---
 
 Before the Divine Liturgy the priest and the deacon prepare themselves with prayers before the icons (the <em>Kairos</em>), put on their vestments with appointed verses, and celebrate at the Prothesis the Service of the Holy Proskomide, in which the bread and wine are prepared and the living and the departed are commemorated. The text below follows the Hieratikon and is given in the original Greek, as is customary for liturgical texts. The rubrics are printed in red; the words of the Priest and the Deacon are marked with the speaker’s name.

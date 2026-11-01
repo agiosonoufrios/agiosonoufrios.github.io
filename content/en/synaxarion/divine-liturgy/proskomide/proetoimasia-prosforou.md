@@ -3,6 +3,7 @@ title: "Preparing the Prosphoron"
 description: "Preparing the Prosphoron"
 translationKey: "proskomidi-proetoimasia-prosforou"
 weight: 30
+lastmod: 2026-11-01
 ---
 
 <p>It should be kneaded at a time when, if possible, no one else is in the house. We do not listen to the radio or watch television, and we have confessed the sins that weigh upon us. We cense our space, in this case the kitchen; our oil lamp is lit; we also light the candle before the icon of the Theotokos, and we begin. It should be stressed that we must use sourdough leaven and not yeast. Also, for the kneading we keep special towels and special utensils, which we do not use for other purposes, for example for sweets or food.</p>

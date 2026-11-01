@@ -3,6 +3,7 @@ title: "Who Should Knead the Prosphoron Offered in Church for the Divine Euchari
 description: "Who Should Knead the Prosphoron Offered in Church for the Divine Eucharist?"
 translationKey: "proskomidi-poios-zymonei"
 weight: 20
+lastmod: 2026-11-01
 ---
 
 <p>Every baptised Christian has this honourable privilege. One must, however, strive to keep oneself in purity in order to perform this sacred work: to knead and to offer the prosphoron for the Mystery of the Divine Eucharist. The kneading of the prosphoron is the beginning of the Divine Liturgy; for this reason the Christian man or woman who kneads the prosphoron should pray at that time.</p>

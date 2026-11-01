@@ -3,6 +3,7 @@ title: "Quem deve amassar o prósforo oferecido na igreja para a Divina Eucarist
 description: "Quem deve amassar o prósforo oferecido na igreja para a Divina Eucaristia?"
 translationKey: "proskomidi-poios-zymonei"
 weight: 20
+lastmod: 2026-11-01
 ---
 
 <p>Todo o cristão batizado tem este privilégio honroso. Deve, porém, esforçar-se por se manter em pureza para realizar esta obra sagrada: amassar e oferecer o prósforo para o Mistério da Divina Eucaristia. O amassar do prósforo é o início da Divina Liturgia; por isso o cristão ou a cristã que amassa o prósforo deve orar nesse momento.</p>

@@ -6,6 +6,7 @@ translationKey: "theia-leitourgia"
 weight: 20
 toc: true
 bibliography: "afieroma-en"
+lastmod: 2026-11-01
 ---
 
 <p class="note">Translated from the Greek original. Biblical, patristic and liturgical passages are rendered from the Greek; the original text of the longer passages can be displayed beneath them.</p>

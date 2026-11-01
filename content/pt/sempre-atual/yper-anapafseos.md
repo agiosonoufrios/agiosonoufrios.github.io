@@ -4,6 +4,7 @@ description: "Os Sábados das Almas e os ofícios fúnebres pelos defuntos."
 translationKey: "epikaira-yper-anapafseos"
 date: 2011-02-20
 weight: 130
+lastmod: 2026-11-01
 ---
 
 Os Padres da Igreja estabeleceram o Sábado antes do Domingo da Carne e o Sábado antes do Pentecostes como Sábados das Almas, dias dedicados às almas dos nossos irmãos defuntos. Sobretudo nestes dias, pois, a Igreja celebra os santos ofícios de memória pelos seus filhos que repousam em Cristo.

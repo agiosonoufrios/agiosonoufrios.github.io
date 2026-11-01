@@ -6,6 +6,7 @@ translationKey: "ermoupoli"
 weight: 10
 toc: true
 bibliography: "afieroma-pt"
+lastmod: 2026-11-01
 ---
 
 <p class="note">Tradução do original grego. As passagens bíblicas e patrísticas foram traduzidas diretamente do grego; o texto original das passagens mais longas pode ser apresentado por baixo delas.</p>

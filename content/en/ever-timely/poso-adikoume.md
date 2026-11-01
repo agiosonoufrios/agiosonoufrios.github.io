@@ -4,6 +4,7 @@ description: "The Divine Liturgy, a foretaste of paradise, set against the passi
 translationKey: "epikaira-poso-adikoume"
 date: 2011-01-07
 weight: 30
+lastmod: 2026-11-01
 ---
 
 The things of this world, however brilliant and radiant they may be, pass away, and so does the desire for them; everything fades and loses its worth. What remains, what satisfies and fulfils the deepest existential needs of man, is grace in the courts of the Lord, where His love is offered in the Divine Liturgy: the heavenly gathering of the saints in the tabernacle of God, the place where the faithful meet the most lovable Lord.

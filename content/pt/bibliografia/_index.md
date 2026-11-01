@@ -3,6 +3,7 @@ title: "Fontes e Bibliografia"
 description: "A bibliografia completa deste sítio no sistema Chicago, com descarga em BibTeX, e auxiliares para o estudo de textos eclesiásticos."
 translationKey: "bibliography"
 bibliography: "afieroma-pt"
+lastmod: 2026-11-01
 ---
 
 Esta página reúne todas as fontes e obras de referência utilizadas nos textos deste sítio: livros litúrgicos e hagiográficos, a Sagrada Escritura e textos patrísticos, estudos, artigos e fontes em linha. As entradas seguem o <em>Chicago Manual of Style</em> (17.ª ed.) e estão ordenadas alfabeticamente em cada categoria. As obras são citadas no original grego.

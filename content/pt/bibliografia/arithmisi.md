@@ -4,6 +4,7 @@ description: "Numeração árabe, grega (alfabética) e romana: quadro de corres
 translationKey: "arithmisi"
 weight: 10
 toc: true
+lastmod: 2026-11-01
 ---
 
 Nos textos eclesiásticos, nos livros litúrgicos e nas edições antigas encontram-se sobretudo três formas de escrever os números: a numeração <strong>árabe</strong> (1, 2, 3…), a numeração <strong>grega alfabética</strong> (αʹ, βʹ, γʹ…) e a numeração <strong>romana</strong> (I, II, III…). O quadro seguinte apresenta a sua correspondência.

@@ -4,6 +4,7 @@ description: "A Divina Liturgia, antegosto do paraíso, perante as coisas passag
 translationKey: "epikaira-poso-adikoume"
 date: 2011-01-07
 weight: 30
+lastmod: 2026-11-01
 ---
 
 As coisas do mundo, por mais brilhantes e luminosas que sejam, passam, tal como o desejo delas; tudo se desgasta e perde valor. O que permanece, o que sacia e satisfaz as necessidades existenciais mais profundas do homem, é a graça nos átrios do Senhor, onde se oferece o seu amor na Divina Liturgia: a assembleia celeste dos santos na tenda de Deus, o lugar do encontro dos fiéis com o amabilíssimo Senhor.

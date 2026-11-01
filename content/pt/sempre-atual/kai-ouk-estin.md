@@ -4,6 +4,7 @@ description: "São Nicodemos, o Hagiorita, sobre a oração de Azarias no cative
 translationKey: "epikaira-kai-ouk-estin"
 date: 2011-01-03
 weight: 80
+lastmod: 2026-11-01
 ---
 
 <div class="hymn">E não há neste tempo chefe, nem profeta, nem guia…</div>

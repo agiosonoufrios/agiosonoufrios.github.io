@@ -2,6 +2,7 @@
 title: "Synaxarion"
 description: "The Divine Liturgy, the Holy Proskomide, the prosphoron and commemorations of Saints."
 translationKey: "synaxarion"
+lastmod: 2026-11-01
 ---
 
 This section brings together services and texts for the commemorations of the Saints, as well as on the Divine Liturgy, the Holy Proskomide and the prosphoron. The website’s calendar of feasts is shown below.

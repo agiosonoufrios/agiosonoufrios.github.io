@@ -4,6 +4,7 @@ description: "The homily of Basil the Great on “Give heed to yourself” (PG 3
 translationKey: "epikaira-proseche-seauto"
 date: 2011-01-01
 weight: 90
+lastmod: 2026-11-01
 ---
 
 The homily of Basil the Great on the words “Give heed to yourself” (Deut 15:9) is one of the best-known ascetical texts of patristic literature.

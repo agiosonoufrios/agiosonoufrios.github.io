@@ -4,6 +4,7 @@ description: "A libertação do trabalho extenuante e da riqueza pela graça de 
 translationKey: "epikaira-diarrixi-desmon"
 date: 2011-04-26
 weight: 40
+lastmod: 2026-11-01
 ---
 
 Quebrar os laços que prendem o homem ao trabalho extenuante e à riqueza é coisa difícil na nossa época, cheia de preocupações e consumista, mas pode tornar-se realidade com a graça de Cristo.

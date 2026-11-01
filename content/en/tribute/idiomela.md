@@ -4,6 +4,7 @@ subtitle: "From the hymnography of the Saint’s feast (12 June)"
 description: "Idiomela and prosomoia from the service of Saint Onuphrius the Egyptian."
 translationKey: "idiomela"
 weight: 20
+lastmod: 2026-11-01
 ---
 
 <p class="note">Translated from the Greek original; the original text of each hymn can be displayed beneath it. In the Greek original only obvious typographical errors of the earlier edition have been corrected. The idiomelon “You sought, O God-bearer”, which appeared twice, is given once.</p>

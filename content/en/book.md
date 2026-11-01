@@ -3,6 +3,7 @@ title: "The Book"
 subtitle: "Saint Onuphrius the Egyptian: A Tribute — printed edition (PDF, in Greek)"
 description: "Saint Onuphrius the Egyptian: A Tribute — printed edition (PDF, in Greek)"
 translationKey: "book"
+lastmod: 2026-11-01
 ---
 
 <figure class="figure-right book-cover"><a href="/vivlio/Digalakis_Agios-Onoufrios-o-Aigyptios_Afieroma_2026.pdf"><img src="/images/vivlio-exofyllo.jpg" alt="Saint Onuphrius the Egyptian: A Tribute — printed edition (PDF, in Greek)" width="240" height="339"></a></figure>

@@ -4,6 +4,7 @@ description: "A Patrologia Graeca de J.-P. Migne em linha: índices organizados 
 translationKey: "patrologia"
 weight: 20
 toc: true
+lastmod: 2026-11-01
 ---
 
 A <em>Patrologia Graeca</em> (PG) de Jacques-Paul Migne é a maior coleção de textos dos Padres gregos e dos escritores eclesiásticos. Foi publicada em Paris em 161 volumes entre 1857 e 1866, com o texto grego e uma tradução latina. As referências aos textos patrísticos indicam-se habitualmente na forma «PG volume, coluna» (p. ex. PG 31, 197).

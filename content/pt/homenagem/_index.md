@@ -5,6 +5,7 @@ description: "A vida, a ascese e a hinografia do Santo; Hermópolis na Tebaida; 
 translationKey: "tribute"
 toc: true
 bibliography: "afieroma-pt"
+lastmod: 2026-11-01
 ---
 
 <figure class="figure-right">

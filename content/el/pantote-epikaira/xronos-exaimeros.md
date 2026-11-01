@@ -4,6 +4,7 @@ description: "Αποσπάσματα από τους Λόγους του Μεγ�
 translationKey: "epikaira-xronos-exaimeros"
 date: 2011-01-30
 weight: 100
+lastmod: 2026-11-01
 ---
 
 <span class="source">Αποσπάσματα από τους Λόγους του Μεγάλου Βασιλείου εις την Εξαήμερον, σε μετάφραση.</span>[^p4]

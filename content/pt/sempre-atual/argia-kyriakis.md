@@ -5,6 +5,7 @@ translationKey: "epikaira-argia-kyriakis"
 date: 2011-01-08
 weight: 20
 toc: true
+lastmod: 2026-11-01
 ---
 
 O Senhor criou o Domingo para que nele nos alegrássemos, não obscurecidos pela embriaguez e por ações vergonhosas, mas encontrando deleite no estudo das Sagradas Escrituras. Deus deu-nos este dia, em que destruiu o poder da morte, e chamou-lhe <em>Kyriaki</em>, Dia do Senhor, para que, já pelo seu nome, honrássemos o dia e guardássemos os mandamentos do Senhor. **Não desprezes o mandamento do descanso dominical, não roubes o seu dia, não te separes da oração, não te afastes da Divina Liturgia.** Não há nada mais elevado do que a igreja. É mais alta do que o céu, mais luminosa do que o sol, mais resplandecente do que o mundo inteiro.

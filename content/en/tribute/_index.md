@@ -5,6 +5,7 @@ description: "The life, ascesis and hymnography of the Saint; Hermopolis in the 
 translationKey: "tribute"
 toc: true
 bibliography: "afieroma-en"
+lastmod: 2026-11-01
 ---
 
 <figure class="figure-right">

@@ -3,6 +3,7 @@ title: "O prósforo e a unidade"
 description: "O prósforo e a unidade"
 translationKey: "proskomidi-prosforo-enotita"
 weight: 40
+lastmod: 2026-11-01
 ---
 
 <p>O prósforo simboliza a nossa unidade, a unidade da nossa Igreja. Pois assim como o prósforo é feito de muitos grãos, que foram recolhidos, moídos, amassados e se tornaram uma só coisa, assim, segundo a antiga oração do prósforo, o sacerdote pedia que Deus reunisse no seu Reino celeste os seus filhos dispersos por toda a terra. E o Apóstolo Paulo diz: «Porque há um só pão, nós, embora muitos, somos um só corpo.»<sup class="ref"><a href="#pr-n1" id="pr-r1">1</a></sup></p>

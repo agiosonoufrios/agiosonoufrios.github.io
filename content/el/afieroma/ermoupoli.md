@@ -6,6 +6,7 @@ translationKey: "ermoupoli"
 weight: 10
 toc: true
 bibliography: "afieroma"
+lastmod: 2026-11-01
 ---
 
 ## Οι μοναχοί της Αιγύπτου

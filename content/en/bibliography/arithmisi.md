@@ -4,6 +4,7 @@ description: "Arabic, Greek (alphabetic) and Roman numerals: a table of correspo
 translationKey: "arithmisi"
 weight: 10
 toc: true
+lastmod: 2026-11-01
 ---
 
 Ecclesiastical texts, liturgical books and older editions mainly use three ways of writing numbers: <strong>Arabic</strong> numerals (1, 2, 3…), <strong>Greek alphabetic</strong> numerals (αʹ, βʹ, γʹ…) and <strong>Roman</strong> numerals (I, II, III…). The table below gives their correspondence.

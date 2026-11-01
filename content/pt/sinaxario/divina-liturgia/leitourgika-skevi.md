@@ -4,6 +4,7 @@ subtitle: "Os principais vasos litúrgicos da Santa Prótese e da Divina Liturgi
 description: "Fotografias e descrição dos principais vasos litúrgicos: selo, prósforo, cálice e patena, lança, asterisco, colher e outros."
 translationKey: "leitourgika-skevi"
 weight: 30
+lastmod: 2026-11-01
 ---
 
 <p class="note">Quadro 1: Os principais vasos litúrgicos e objetos relacionados. Clique numa fotografia para a ver em tamanho maior. Sobre o uso dos vasos ver também <a href="/pt/sinaxario/divina-liturgia/">A Divina Liturgia</a> e <a href="/pt/sinaxario/divina-liturgia/diataxi/">A Ordem da Divina Liturgia</a>.</p>
