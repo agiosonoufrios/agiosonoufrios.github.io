@@ -1,0 +1,28 @@
+{{- with site.Params.gaMeasurementID -}}
+<div id="cookie-bar" class="cookie-bar" role="dialog" aria-live="polite" hidden>
+  <p>{{ i18n "cookieText" }}</p>
+  <div class="cookie-actions">
+    <button type="button" id="cookie-decline" class="cookie-btn cookie-btn-alt">{{ i18n "cookieDecline" }}</button>
+    <button type="button" id="cookie-accept" class="cookie-btn">{{ i18n "cookieAccept" }}</button>
+  </div>
+</div>
+<script>
+(function(){
+  var ID="{{ . }}", KEY="ao-cookie-consent";
+  var bar=document.getElementById("cookie-bar");
+  function loadGA(){
+    if(window.__gaLoaded) return; window.__gaLoaded=true;
+    var s=document.createElement("script"); s.async=true; s.src="https://www.googletagmanager.com/gtag/js?id="+ID;
+    document.head.appendChild(s);
+    window.dataLayer=window.dataLayer||[]; function gtag(){dataLayer.push(arguments);} window.gtag=gtag;
+    gtag("js",new Date()); gtag("config",ID,{anonymize_ip:true});
+  }
+  var c=null; try{c=localStorage.getItem(KEY);}catch(e){}
+  if(c==="granted"){loadGA();} else if(c!=="denied"){bar.hidden=false;}
+  document.getElementById("cookie-accept").onclick=function(){try{localStorage.setItem(KEY,"granted");}catch(e){} bar.hidden=true; loadGA();};
+  document.getElementById("cookie-decline").onclick=function(){try{localStorage.setItem(KEY,"denied");}catch(e){} bar.hidden=true;};
+  var l=document.getElementById("cookie-settings");
+  if(l){l.hidden=false; l.onclick=function(e){e.preventDefault(); try{localStorage.removeItem(KEY);}catch(x){} bar.hidden=false;};}
+})();
+</script>
+{{- end -}}

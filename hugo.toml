@@ -12,6 +12,8 @@ timeZone = "Europe/Athens"
   typographer = false
 
 [params]
+  # Google Analytics 4 (φορτώνεται μόνο μετά από συγκατάθεση)
+  gaMeasurementID = "G-PYRDGKKG65"
   # Κωδικοί επαλήθευσης μηχανών αναζήτησης (συμπληρώνονται όταν δοθούν)
   googleSiteVerification = "ua_VcgEWo0Bi2tQj7xZQGMIpddJJFIlZwIri0y9z8sA"
   bingSiteVerification = ""

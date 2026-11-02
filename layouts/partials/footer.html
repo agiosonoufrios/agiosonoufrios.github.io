@@ -1,5 +1,6 @@
 <footer class="site-foot">
   {{ with i18n "translationNotice" }}<p class="translation-notice">{{ . }}</p>{{ end }}
   <p class="dedication">{{ i18n "dedication" }} <span class="dedication-name">— {{ .Site.Params.authorName }}</span></p>
-  <p>Copyright © {{ .Site.Params.since }}–{{ now.Year }} {{ .Site.Params.authorName }}</p>
+  <p>Copyright © {{ .Site.Params.since }}–{{ now.Year }} {{ .Site.Params.authorName }}{{ with site.Params.gaMeasurementID }} · <a href="#" id="cookie-settings" hidden>{{ i18n "cookieSettings" }}</a>{{ end }}</p>
 </footer>
+{{ partial "analytics.html" . }}
